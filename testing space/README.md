@@ -11,7 +11,7 @@
 ==chanoyu=={Q202298}
 
 
-.ve-media https://collections.lib.uwm.edu/iiif/info/agdm/8897/manifest.json left
+.ve-media https://collections.lib.uwm.edu/iiif/info/agdm/8897/manifest.json left 
 Isn't this a cool map?
 ==detail=={6068,5818,1406,1563}
 
@@ -19,3 +19,9 @@ Isn't this a cool map?
 .ve-media
     -  https://collections.lib.uwm.edu/iiif/info/agdm/8897/manifest.json
     -  https://collections.lib.uwm.edu/iiif/info/agdm/3513/manifest.json
+    
+    
+    
+ #Night Shining white at the Met
+.ve-media met:39901
+ 
